@@ -1,0 +1,14 @@
+{
+  "name": "teams",
+  "version": "1.0.0",
+  "description": "This is a test of server create ",
+  "main": "index.js",
+  "scripts": {
+    "item": "json-server --watch db.json --port 5656"
+  },
+  "author": "Masudur Rahman",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
